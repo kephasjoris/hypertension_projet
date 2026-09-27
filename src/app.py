@@ -325,3 +325,4 @@ ttk.Label(
 # LANCEMENT
 # =========================
 root.mainloop()
+# Application de prédiction de l'hypertension
