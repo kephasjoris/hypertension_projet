@@ -1,0 +1,13 @@
+pandas 
+numpy 
+scikit-learn 
+matplotlib 
+seaborn 
+shap 
+joblib 
+flask 
+gunicorn 
+pyyaml 
+pytest 
+black
+jupyterlab
